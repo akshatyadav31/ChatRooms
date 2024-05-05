@@ -1,7 +1,3 @@
-Here's a README template based on the provided information:
-
----
-
 # Real-Time Chat Application
 
 This project is a tutorial on building and deploying a real-time chat application using React.js, Node.js, and Socket.io. The video tutorial walks you through the steps of creating the chat application from scratch, covering both the front-end and back-end development.
